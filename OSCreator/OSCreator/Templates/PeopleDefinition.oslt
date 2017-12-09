@@ -1,0 +1,9 @@
+﻿OS:People:Definition,
+  {{{0}}}, !- Handle
+  {1},                    !- Name
+  People/Area,                            !- Number of People Calculation Method
+  ,                                       !- Number of People {{people}}
+  {2},                                    !- People per Space Floor Area {{person/m2}}
+  ,                                       !- Space Floor Area per Person {{m2/person}}
+  0.3;                                    !- Fraction Radiant
+

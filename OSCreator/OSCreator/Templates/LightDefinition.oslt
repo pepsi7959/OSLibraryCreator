@@ -1,0 +1,8 @@
+﻿OS:Lights:Definition,
+  {{{0}}}, !- Handle
+  {1},                    !- Name
+  Watts/Area,                             !- Design Level Calculation Method
+  ,                                       !- Lighting Level {{W}}
+  {2},                                      !- Watts per Space Floor Area {{W/m2}}
+  ;                                       !- Watts per Person {{W/person}}
+
