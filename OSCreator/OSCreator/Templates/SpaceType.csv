@@ -1,0 +1,123 @@
+TH-2016-Hospital-Patient Room,Thai Hospital Schedule Set,TH-MinReg39-Hospital-Patient Room-Ventilation,90.1-2007 - Hospital - PatRoom People Definition,90.1-2007-Hospital-Patient Room-Lights Definition
+TH-2016-Hospital-Operating Room,Thai Hospital Schedule Set,TH-MinReg39-Hospital-Operating Room-Ventilation,90.1-2007 - Hospital - OR People Definition,90.1-2007-Hospital-Operating Room-Lights Definition
+TH-2016-Hospital-Emergency Room,Thai Hospital Schedule Set,TH-MinReg39-Hospital-Emergency Room-Ventilation,90.1-2007 - Hospital - ER_Exam People Definition,90.1-2007-Hospital-Emergency Room-Lights Definition
+TH-2016-Hospital-ICU,Thai Hospital Schedule Set,TH-MinReg39-Hospital-ICU-Ventilation,90.1-2007 - Hospital - ICU_Open People Definition,90.1-2007-Hospital-ICU-Lights Definition
+TH-2016-Hospital-Pharmacy,Thai Hospital Schedule Set,EIT-2016-Hospital-Pharmacy-Ventilation,EIT-2016-Hospital-Pharmacy-People Definition,90.1-2007-Hospital-Pharmacy-Lights Definition
+TH-2016-Hospital-Conference,Thai Hospital Schedule Set,EIT-2016-Hospital-Conference-Ventilation,EIT-2016-Hospital-Conference-People Definition,90.1-2007-Hospital-Conference-Lights Definition
+TH-2016-Hospital-Corridor,Thai Hospital Schedule Set,EIT-2016-Hospital-Corridor-Ventilation,EIT-2016-Hospital-Corridor-People Definition,90.1-2007-Hospital-Corridor-Lights Definition
+TH-2016-Hospital-Office space,Thai Hospital Schedule Set,EIT-2016-Hospital-Office space-Ventilation,EIT-2016-Hospital-Office space-People Definition,90.1-2007-Hospital-Office space-Lights Definition
+TH-2016-Hospital-Restaurant-Dining,Thai Hospital Schedule Set,EIT-2016-Hospital-Restaurant-Dining-Ventilation,EIT-2016-Hospital-Restaurant-Dining-People Definition,90.1-2007-Hospital-Restaurant-Dining-Lights Definition
+TH-2016-Hospital-Cafeteria/Fast-food dining,Thai Hospital Schedule Set,EIT-2016-Hospital-Cafeteria/Fast-food dining-Ventilation,EIT-2016-Hospital-Cafeteria/Fast-food dining-People Definition,90.1-2007-Hospital-Cafeteria/Fast-food dining-Lights Definition
+TH-2016-Hospital-Kitchen,Thai Hospital Schedule Set,EIT-2016-Hospital-Kitchen-Ventilation,EIT-2016-Hospital-Kitchen-People Definition,90.1-2007-Hospital-Kitchen-Lights Definition
+TH-2016-Hospital-Laundry,Thai Hospital Schedule Set,EIT-2016-Hospital-Laundry-Ventilation,EIT-2016-Hospital-Laundry-People Definition,90.1-2007-Hospital-Laundry-Lights Definition
+TH-2016-Edu-Daycare (through age 4),Thai Education Facility Schedule Set,EIT-2016- Edu-Daycare (through age 4)-,EIT-2016- Edu-Daycare (through age 4)-People Definition,90.1-2007- Edu-Daycare (through age 4)-Lights Definition
+TH-2016-Edu-Daycare sickroom,Thai Education Facility Schedule Set,EIT-2016- Edu-Daycare sickroom-Ventilation,EIT-2016- Edu-Daycare sickroom-People Definition,90.1-2007- Edu-Daycare sickroom-Lights Definition
+TH-2016-Edu-Classroom (age 5-8),Thai Education Facility Schedule Set,EIT-2016- Edu-Classroom (age 5-8)-Ventilation,EIT-2016- Edu-Classroom (age 5-8)-People Definition,90.1-2007- Edu-Classroom (age 5-8)-Lights Definition
+TH-2016-Edu-Classroom (age9 plus),Thai Education Facility Schedule Set,EIT-2016- Edu-Classroom (age9 plus)-Ventilation,EIT-2016- Edu-Classroom (age9 plus)-People Definition,90.1-2007- Edu-Classroom (age9 plus)-Lights Definition
+TH-2016-Edu-Lecture classroom,Thai Education Facility Schedule Set,EIT-2016- Edu-Lecture classroom-Ventilation,EIT-2016- Edu-Lecture classroom-People Definition,90.1-2007- Edu-Lecture classroom-Lights Definition
+TH-2016-Edu-Lecture hall,Thai Education Facility Schedule Set,EIT-2016- Edu-Lecture hall-Ventilation,EIT-2016- Edu-Lecture hall-People Definition,90.1-2007- Edu-Lecture hall-Lights Definition
+TH-2016-Edu-Art classroom,Thai Education Facility Schedule Set,EIT-2016- Edu-Art classroom-Ventilation,EIT-2016- Edu-Art classroom-People Definition,90.1-2007- Edu-Art classroom-Lights Definition
+TH-2016-Edu-Science laboratory,Thai Education Facility Schedule Set,EIT-2016- Edu-Science laboratory-Ventilation,EIT-2016- Edu-Science laboratory-People Definition,90.1-2007- Edu-Science laboratory-Lights Definition
+TH-2016-Edu-University/College laboratory,Thai Education Facility Schedule Set,EIT-2016- Edu-University/College laboratory-Ventilation,EIT-2016- Edu-University/College laboratory-People Definition,90.1-2007- Edu-University/College laboratory-Lights Definition
+TH-2016-Edu-Wood/Metal shop,Thai Education Facility Schedule Set,EIT-2016- Edu-Wood/Metal shop-Ventilation,EIT-2016- Edu-Wood/Metal shop-People Definition,90.1-2007- Edu-Wood/Metal shop-Lights Definition
+TH-2016-Edu-Computer lab,Thai Education Facility Schedule Set,EIT-2016- Edu-Computer lab-Ventilation,EIT-2016- Edu-Computer lab-People Definition,90.1-2007- Edu-Computer lab-Lights Definition
+TH-2016-Edu-Media center,Thai Education Facility Schedule Set,EIT-2016- Edu-Media center-Ventilation,EIT-2016- Edu-Media center-People Definition,90.1-2007- Edu-Media center-Lights Definition
+TH-2016-Edu-Theater,Thai Education Facility Schedule Set,EIT-2016- Edu-Theater-Ventilation,EIT-2016- Edu-Theater-People Definition,90.1-2007- Edu-Theater-Lights Definition
+TH-2016-Edu-Multipurpose,Thai Education Facility Schedule Set,EIT-2016- Edu-Multipurpose-Ventilation,EIT-2016- Edu-Multipurpose-People Definition,90.1-2007- Edu-Multipurpose-Lights Definition
+TH-2016-Edu-Corridor,Thai Education Facility Schedule Set,EIT-2016-Edu-Corridor-Ventilation,EIT-2016-Edu-Corridor-People Definition,90.1-2007-Edu-Corridor-Lights Definition
+TH-2016-Edu-Conference,Thai Education Facility Schedule Set,EIT-2016-Edu-Conference-Ventilation,EIT-2016-Edu-Conference-People Definition,90.1-2007-Edu-Conference-Lights Definition
+TH-2016-Edu-Office space,Thai Education Facility Schedule Set,EIT-2016-Edu-Office space-Ventilation,EIT-2016-Edu-Office space-People Definition,90.1-2007-Edu-Office space-Lights Definition
+TH-2016-Edu-Breakroom,Thai Education Facility Schedule Set,EIT-2016-Edu-Breakroom-Ventilation,EIT-2016-Edu-Breakroom-People Definition,90.1-2007-Edu-Breakroom-Lights Definition
+TH-2016-Edu-Coffee station,Thai Education Facility Schedule Set,EIT-2016-Edu-Coffee station-Ventilation,EIT-2016-Edu-Coffee station-People Definition,90.1-2007-Edu-Coffee station-Lights Definition
+TH-2016-Edu-Fast-food dining,Thai Education Facility Schedule Set,EIT-2016-Edu-Fast-food dining-Ventilation,EIT-2016-Edu-Fast food dining-People Definition,90.1-2007-Edu-Fast food dining-Lights Definition
+TH-2016-Office-Lobby,Thai Office Schedule Set,EIT-2016-Office-Lobby-Ventilation,EIT-2016-Office-Lobby-People Definition,90.1-2007-Office-Lobby-Lights Definition
+TH-2016-Office-Storage,Thai Office Schedule Set,EIT-2016-Office-Storage-Ventilation,EIT-2016-Office-Storage-People Definition,90.1-2007-Office-Storage-Lights Definition
+TH-2016-Office-Office space,Thai Office Schedule Set,EIT-2016-Office-Office space-Ventilation,EIT-2016-Office-Office space-People Definition,90.1-2007-Office-Office space-Lights Definition
+TH-2016-Office-Reception area,Thai Office Schedule Set,EIT-2016-Office-Reception area-Ventilation,EIT-2016-Office-Reception area-People Definition,90.1-2007-Office-Reception area-Lights Definition
+TH-2016-Office-Telephone/data entry,Thai Office Schedule Set,EIT-2016-Office-Telephone/data entry-Ventilation,EIT-2016-Office-Telephone/data entry-People Definition,90.1-2007-Office-Telephone/data entry-Lights Definition
+TH-2016-Office-Conference,Thai Office Schedule Set,EIT-2016-Office-Conference-Ventilation,EIT-2016-Office-Conference-People Definition,90.1-2007-Office-Conference-Lights Definition
+TH-2016-Office-Corridor,Thai Office Schedule Set,EIT-2016-Office-Corridor-Ventilation,EIT-2016-Office-Corridor-People Definition,90.1-2007-Office-Corridor-Lights Definition
+TH-2016-Office-Computer,Thai Office Schedule Set,EIT-2016-Office-Computer-Ventilation,EIT-2016-Office-Computer-People Definition,90.1-2007-Office-Computer-Lights Definition
+TH-2016-Office-Breakroom,Thai Office Schedule Set,EIT-2016-Office-Breakroom-Ventilation,EIT-2016-Office-Breakroom-People Definition,90.1-2007-Office-Breakroom-Lights Definition
+TH-2016-Office-Coffee station,Thai Office Schedule Set,EIT-2016-Office-Coffee station-Ventilation,EIT-2016-Office-Coffee station-People Definition,90.1-2007-Office-Coffee station-Lights Definition
+TH-2016-Office-Fast food dining,Thai Office Schedule Set,EIT-2016-Office-Fast food dining-Ventilation,EIT-2016-Office-Fast food dining-People Definition,90.1-2007-Office-Fast food dining-Lights Definition
+TH-2016-Con-Dwelling unit,Thai Condominium Schedule Set,EIT-2016-Con-Dwelling unit-Ventilation,EIT-2016-Con-Dwelling unit-People Definition,90.1-2007-Con-Dwelling unit-Lights Definition
+TH-2016-Con-Corridor,Thai Condominium Schedule Set,EIT-2016-Con-Corridor-Ventilation,EIT-2016-Con-Corridor-People Definition,90.1-2007-Con-Corridor-Lights Definition
+TH-2016-Con-Lobby,Thai Condominium Schedule Set,EIT-2016-Con-Lobby-Ventilation,EIT-2016-Con-Lobby-People Definition,90.1-2007-Con-Lobby-Lights Definition
+TH-2016-Con-Office space,Thai Condominium Schedule Set,EIT-2016-Con-Office space-Ventilation,EIT-2016-Con-Office space-People Definition,90.1-2007-Con-Office space-Lights Definition
+TH-2016-Con-Conference,Thai Condominium Schedule Set,EIT-2016-Con-Conference-Ventilation,EIT-2016-Con-Conference-People Definition,90.1-2007-Con-Conference-Lights Definition
+TH-2016-Con-Breakroom,Thai Condominium Schedule Set,EIT-2016-Con-Breakroom-Ventilation,EIT-2016-Con-Breakroom-People Definition,90.1-2007-Con-Breakroom-Lights Definition
+TH-2016-Con-Coffee station,Thai Condominium Schedule Set,EIT-2016-Con-Coffee stations-Ventilation,EIT-2016-Con-Coffee station-People Definition,90.1-2007-Con-Coffee station-Lights Definition
+TH-2016-Con-Fast food dining,Thai Condominium Schedule Set,EIT-2016-Con-Fast food dining-Ventilation,EIT-2016-Con-Fast food dining-People Definition,90.1-2007-Con-Fast food dining-Lights Definition
+TH-2016-Con-Coin-operated laundry,Thai Condominium Schedule Set,EIT-2016-Con-Coin-operated laundry-Ventilation,EIT-2016-Con-Coin-operated laundry-People Definition,90.1-2007-Con-Coin-operated laundry-Lights Definition
+TH-2016-Gym-Sport arena (play area),Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Gym-Sport arena (play area)-Ventilation,EIT-2016-Gym-Sport arena (play area)-People Definition,90.1-2007-Gym-Sport arena (play area)-Lights Definition
+TH-2016-Gym-Gym, stadium (play area),Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Gym-Gym, stadium (play area)-Ventilation,EIT-2016-Gym-Gym, stadium (play area)-People Definition,90.1-2007-Gym-Gym, stadium (play area)-Lights Definition
+TH-2016-Gym-Spectator areas,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Gym-Spectator areas-Ventilation,EIT-2016-Gym-Spectator areas-People Definition,90.1-2007-Gym-Spectator areas-Lights Definition
+TH-2016-Gym-Swimming (pool & deck),Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Gym-Swimming (pool & deck)-Ventilation,EIT-2016-Gym-Swimming (pool & deck)-People Definition,90.1-2007-Gym-Swimming (pool & deck)-Lights Definition
+TH-2016-Gym-Disco/dance floors,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Gym-Disco/dance floors-Ventilation,EIT-2016-Gym-Disco/dance floors-People Definition,90.1-2007-Gym-Disco/dance floors-Lights Definition
+TH-2016-Gym-Health club/aerobics room,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Gym-Health club/aerobics room-Ventilation,EIT-2016-Gym-Health club/aerobics room-People Definition,90.1-2007-Gym-Health club/aerobics room-Lights Definition
+TH-2016-Gym-Health club/weight room,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Gym-Health club/weight room-Ventilation,EIT-2016-Gym-Health club/weight room-People Definition,90.1-2007-Gym-Health club/weight room-Lights Definition
+TH-2016-Gym-Bowling alley (seating),Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Gym-Bowling alley (seating)-Ventilation,EIT-2016-Gym-Bowling alley (seating)-People Definition,90.1-2007-Gym-Bowling alley (seating)-Lights Definition
+TH-2016-Gym-Game arcades,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Gym-Game arcades-Ventilation,EIT-2016-Gym-Game arcades-People Definition,90.1-2007-Gym-Game arcades-Lights Definition
+TH-2016-Exh-Stages, studios,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Exh-Stages, studio-Ventilation,EIT-2016-Exh-Stages, studios-People Definition,90.1-2007-Exh-Stages, studios-Lights Definition
+TH-2016-Exh-Children's Museum,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Exh-Children's Museum-Ventilation,EIT-2016-Exh-Children's Museum-People Definition,90.1-2007-Exh-Children's Museum-Lights Definition
+TH-2016-Exh-Museum/Gallery,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Exh-Museum/Gallery-Ventilation,EIT-2016-Exh-Museum/Gallery-People Definition,90.1-2007-Exh-Museum/Gallery-Lights Definition
+TH-2016-Exh/Gym--Corridor,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Exh/Gym--Corridor-Ventilation,EIT-2016-Exh/Gym--Corridor-People Definition,90.1-2007-Exh-Corridor-Lights Definition
+TH-2016-Exh/Gym-Office space,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Exh/Gym--Office space-Ventilation,EIT-2016-Exh/Gym--Office space-People Definition,90.1-2007-Exh/Gym--Office space-Lights Definition
+TH-2016-Exh/Gym--Conference,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Exh/Gym--Conference-Ventilation,EIT-2016-Exh/Gym--Conference-People Definition,90.1-2007-Exh/Gym--Conference-Lights Definition
+TH-2016-Exh/Gym--Coffee station,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Exh/Gym--Coffee stations-Ventilation,EIT-2016-Exh/Gym--Coffee station-People Definition,90.1-2007-Exh/Gym--Coffee station-Lights Definition
+TH-2016-Exh/Gym--Fast food dining,Thai Exhibition hall/Gymnasium Schedule Set,EIT-2016-Exh/Gym--Fast food dining-Ventilation,EIT-2016-Exh/Gym--Fast food dining-People Definition,90.1-2007-Exh/Gym--Fast food dining-Lights Definition
+TH-2016-Aud-Auditorium ,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Auditorium-Ventilation,EIT-2016-Aud-Auditorium-People Definition,90.1-2007-Aud-Auditorium-Lights Definition
+TH-2016-Aud-Places of religious worship,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Places of religious worship-Ventilation,EIT-2016-Aud-Places of religious worship-People Definition,90.1-2007-Aud-Places of religious worship-Lights Definition
+TH-2016-Aud-Courtroom,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Courtroom-Ventilation,EIT-2016-Aud-Courtroom-People Definition,90.1-2007-Aud-Courtroom-Lights Definition
+TH-2016-Aud-Legislative chamber,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Legislative chamber-Ventilation,EIT-2016-Aud-Legislative chamber-People Definition,90.1-2007-Aud-Legislative chamber-Lights Definition
+TH-2016-Aud-Library,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Library-Ventilation,EIT-2016-Aud-Library-People Definition,90.1-2007-Aud-Library-Lights Definition
+TH-2016-Aud-Lobby,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Lobby-Ventilation,EIT-2016-Aud-Lobby-People Definition,90.1-2007-Aud-Lobby-Lights Definition
+TH-2016-Aud-Corridor,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Corridor-Ventilation,EIT-2016-Aud-Corridor-People Definition,90.1-2007-Aud-Corridor-Lights Definition
+TH-2016-Aud-Office space,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Office space-Ventilation,EIT-2016-Aud-Office space-People Definition,90.1-2007-Aud-Office space-Lights Definition
+TH-2016-Aud-Conference,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Conference-Ventilation,EIT-2016-Aud-Conference-People Definition,90.1-2007-Aud-Conference-Lights Definition
+TH-2016-Aud-Coffee station,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Coffee stations-Ventilation,EIT-2016-Aud-Coffee station-People Definition,90.1-2007-Aud-Coffee station-Lights Definition
+TH-2016-Aud-Fast food dining,Thai Auditorium/Concert Hall Schedule Set,EIT-2016-Aud-Fast food dining-Ventilation,EIT-2016-Aud-Fast food dining-People Definition,90.1-2007-Aud-Fast food dining-Lights Definition
+TH-2016-Hotel-Bedroom/Living room,Thai Hotel Schedule Set,EIT-2016-Hotel-Bedroom/Living room-Ventilation,EIT-2016-Hotel-Bedroom/Living room-People Definition,90.1-2007-Hotel-Bedroom/Living room-Lights Definition
+TH-2016-Hotel-Barracks sleep area,Thai Hotel Schedule Set,EIT-2016-Hotel-Barracks sleep area-Ventilation,EIT-2016-Hotel-Barracks sleep area-People Definition,90.1-2007-Hotel-Barracks sleep area-Lights Definition
+TH-2016-Hotel-Laundry,Thai Hotel Schedule Set,EIT-2016-Hotel-Laundry-Ventilation,EIT-2016-Hotel-Laundry-People Definition,90.1-2007-Hotel-Laundry-Lights Definition
+TH-2016-Hotel-Laundry in dwelling unit,Thai Hotel Schedule Set,EIT-2016-Hotel-Laundry in dwelling unit-Ventilation,EIT-2016-Hotel-Laundry in dwelling unit-People Definition,90.1-2007-Hotel-Laundry in dwelling unit -Lights Definition
+TH-2016-Hotel-Lobby,Thai Hotel Schedule Set,EIT-2016-Hotel-Lobby-Ventilation,EIT-2016-Hotel-Lobby-People Definition,90.1-2007-Hotel-Lobby-Lights Definition
+TH-2016-Hotel-Multipurpose,Thai Hotel Schedule Set,EIT-2016-Hotel-Multipurpose-Ventilation,EIT-2016-Hotel-Multipurpose-People Definition,90.1-2007-Hotel-Multipurpose-Lights Definition
+TH-2016-Hotel-Corridor,Thai Hotel Schedule Set,EIT-2016-Hotel-Corridor-Ventilation,EIT-2016-Hotel-Corridor-People Definition,90.1-2007-Hotel-Corridor-Lights Definition
+TH-2016-Hotel-Office space,Thai Hotel Schedule Set,EIT-2016-Hotel-Office space-Ventilation,EIT-2016-Hotel-Office space-People Definition,90.1-2007-Hotel-Office space-Lights Definition
+TH-2016-Hotel-Conference,Thai Hotel Schedule Set,EIT-2016-Hotel-Conference-Ventilation,EIT-2016-Hotel-Conference-People Definition,90.1-2007-Hotel-Conference-Lights Definition
+TH-2016-Hotel-Auditorium,Thai Hotel Schedule Set,EIT-2016-Hotel-Auditorium-Ventilation,EIT-2016-Hotel-Auditorium-People Definition,90.1-2007-Hotel-Auditorium-Lights Definition
+TH-2016-Hotel-Restaurant-Dining,Thai Hotel Schedule Set,EIT-2016-Hotel-Restaurant-Dining-Ventilation,EIT-2016-Hotel-Restaurant-Dining-People Definition,90.1-2007-Hotel-Restaurant-Dining-Lights Definition
+TH-2016-Hotel-Cafeteria/Fast-food dining,Thai Hotel Schedule Set,EIT-2016-Hotel-Cafeteria/Fast-food dining-Ventilation,EIT-2016-Hotel-Cafeteria/Fast-food dining-People Definition,90.1-2007-Hotel-Cafeteria/Fast-food dining-Lights Definition
+TH-2016-Hotel-Bars/Lounge,Thai Hotel Schedule Set,EIT-2016-Hotel-Bars/Lounge-Ventilation,EIT-2016-Hotel-Bars/Lounge-People Definition,90.1-2007-Hotel-Bars/Lounge-Lights Definition
+TH-2016-Hotel-Kitchen,Thai Hotel Schedule Set,EIT-2016-Hotel-Kitchen-Ventilation,EIT-2016-Hotel-Kitchen-People Definition,90.1-2007-Hotel-Kitchen-Lights Definition
+TH-2016-Ent-Restaurant-Dining ,Thai Entertainment Complex Schedule Set,EIT-2016-Ent-Restaurant-Dining-Ventilation,EIT-2016-Ent-Restaurant-Dining-People Definition,90.1-2007-Ent-Restaurant-Dining-Lights Definition
+TH-2016-Ent-Cafeteria/Fast-food dining,Thai Entertainment Complex Schedule Set,EIT-2016-Ent-Cafeteria/Fast-food dining-Ventilation,EIT-2016-Ent-Cafeteria/Fast-food dining-People Definition,90.1-2007-Ent-Cafeteria/Fast-food dining-Lights Definition
+TH-2016-Ent-Bars/Lounge,Thai Entertainment Complex Schedule Set,EIT-2016-Ent-Bars/Lounge-Ventilation,EIT-2016-Ent-Bars/Lounge-People Definition,90.1-2007-Ent-Bars/Lounge-Lights Definition
+TH-2016-Ent-Kitchen,Thai Entertainment Complex Schedule Set,EIT-2016-Ent-Kitchen-Ventilation,EIT-2016-Ent-Kitchen-People Definition,90.1-2007-Ent-Kitchen-Lights Definition
+TH-2016-Ent-Corridor,Thai Entertainment Complex Schedule Set,EIT-2016-Ent-Corridor-Ventilation,EIT-2016-Ent-Corridor-People Definition,90.1-2007-Ent-Corridor-Lights Definition
+TH-2016-Ent-Lobby,Thai Entertainment Complex Schedule Set,EIT-2016-Ent-Lobby-Ventilation,EIT-2016-Ent-Lobby-People Definition,90.1-2007-Ent-Lobby-Lights Definition
+TH-2016-Ent-Office space,Thai Entertainment Complex Schedule Set,EIT-2016-Ent-Office space-Ventilation,EIT-2016-Ent-Office space-People Definition,90.1-2007-Ent-Office space-Lights Definition
+TH-2016-Ent-Conference,Thai Entertainment Complex Schedule Set,EIT-2016-Ent-Conference-Ventilation,EIT-2016-Ent-Conference-People Definition,90.1-2007-Ent-Conference-Lights Definition
+TH-2016-Dep-Sales ,Thai Department Store Schedule Set,EIT-2016-Dep-Sales-Ventilation,EIT-2016-Dep-Sales-People Definition,90.1-2007-Dep-Sales-Lights Definition
+TH-2016-Dep-Mall common area,Thai Department Store Schedule Set,EIT-2016-Dep-Mall common area-Ventilation,EIT-2016-Dep-Mall common area-People Definition,90.1-2007-Dep-Mall common area-Lights Definition
+TH-2016-Dep-Barbershop,Thai Department Store Schedule Set,EIT-2016-Dep-Barbershop-Ventilation,EIT-2016-Dep-Barbershop-People Definition,90.1-2007-Dep-Barbershop-Lights Definition
+TH-2016-Dep-Beauty salon,Thai Department Store Schedule Set,EIT-2016-Dep-Beauty salon-Ventilation,EIT-2016-Dep-Beauty salon-People Definition,90.1-2007-Dep-Beauty salon-Lights Definition
+TH-2016-Dep-Pet shop,Thai Department Store Schedule Set,EIT-2016-Dep-Pet shop-Ventilation,EIT-2016-Dep-Pet shop-People Definition,90.1-2007-Dep-Pet shop-Lights Definition
+TH-2016-Dep-Supermarket,Thai Department Store Schedule Set,EIT-2016-Dep-Supermarket-Ventilation,EIT-2016-Dep-Supermarket-People Definition,90.1-2007-Dep-Supermarket-Lights Definition
+TH-2016-Dep-Coin-operated laudries,Thai Department Store Schedule Set,EIT-2016-Dep-Coin-operated laudries-Ventilation,EIT-2016-Dep-Coin-operated laudries-People Definition,90.1-2007-Dep-Coin-operated laudries-Lights Definition
+TH-2016-Dep-Shipping,Thai Department Store Schedule Set,EIT-2016-Dep-Shipping-Ventilation,EIT-2016-Dep-Shipping-People Definition,90.1-2007-Dep-Shipping-Lights Definition
+TH-2016-Dep-Warehouse,Thai Department Store Schedule Set,EIT-2016-Dep-Warehouse-Ventilation,EIT-2016-Dep-Warehouse-People Definition,90.1-2007-Dep-Warehouse-Lights Definition
+TH-2016-Dep-Photo studio,Thai Department Store Schedule Set,EIT-2016-Dep-Photo studio-Ventilation,EIT-2016-Dep-Photo studio-People Definition,90.1-2007-Dep-Photo studio-Lights Definition
+TH-2016-Dep-Refrigeration area,Thai Department Store Schedule Set,EIT-2016-Dep-Refrigeration area-Ventilation,EIT-2016-Dep-Refrigeration area-People Definition,90.1-2007-Dep-Refrigeration area-Lights Definition
+TH-2016-Dep-Bank vaults,Thai Department Store Schedule Set,EIT-2016-Dep-Bank vaults-Ventilation,EIT-2016-Dep-Bank vaults-People Definition,90.1-2007-Dep-Bank vaults-Lights Definition
+TH-2016-Dep-Bank lobby,Thai Department Store Schedule Set,EIT-2016-Dep-Bank lobby-Ventilation,EIT-2016-Dep-Bank lobby-People Definition,90.1-2007-Dep-Bank lobby-Lights Definition
+TH-2016-Dep-Corridor,Thai Department Store Schedule Set,EIT-2016-Dep-Corridor-Ventilation,EIT-2016-Dep-Corridor-People Definition,90.1-2007-Dep-Corridor-Lights Definition
+TH-2016-Dep-Office space,Thai Department Store Schedule Set,EIT-2016-Dep-Office space-Ventilation,EIT-2016-Dep-Office space-People Definition,90.1-2007-Dep-Office space-Lights Definition
+TH-2016-Dep-Conference,Thai Department Store Schedule Set,EIT-2016-Dep-Conference-Ventilation,EIT-2016-Dep-Conference-People Definition,90.1-2007-Dep-Conference-Lights Definition
+TH-2016-Dep-Restaurant-Dining,Thai Department Store Schedule Set,EIT-2016-Dep-Restaurant-Dining-Ventilation,EIT-2016-Dep-Restaurant-Dining-People Definition,90.1-2007-Dep-Restaurant-Dining-Lights Definition
+TH-2016-Dep-Coffee station,Thai Department Store Schedule Set,EIT-2016-Dep-Coffee stations-Ventilation,EIT-2016-Dep-Coffee station-People Definition,90.1-2007-Dep-Coffee station-Lights Definition
+TH-2016-Dep-Cafeteria/Fast-food dining,Thai Department Store Schedule Set,EIT-2016-Dep-Cafeteria/Fast-food dining-Ventilation,EIT-2016-Dep-Cafeteria/Fast-food dining-People Definition,90.1-2007-Dep-Cafeteria/Fast-food dining-Lights Definition
+TH-2016-Dep-Bars/Lounge,Thai Department Store Schedule Set,EIT-2016-Depl-Bars/Lounge-Ventilation,EIT-2016-Dep-Bars/Lounge-People Definition,90.1-2007-Dep-Bars/Lounge-Lights Definition
+TH-2016-Dep-Kitchen,Thai Department Store Schedule Set,EIT-2016-Dep-Kitchen-Ventilation,EIT-2016-Dep-Kitchen-People Definition,90.1-2007-Dep-Kitchen-Lights Definition

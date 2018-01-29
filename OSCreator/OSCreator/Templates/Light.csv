@@ -1,0 +1,126 @@
+90.1-2007-Hospital-Patient Room-Lights Definition,8
+90.1-2007-Hospital-Operating Room-Lights Definition,24
+90.1-2007-Hospital-Emergency Room-Lights Definition,29
+90.1-2007-Hospital-ICU-Lights Definition,29
+90.1-2007-Hospital-Pharmacy-Lights Definition,15
+90.1-2007-Hospital-Conference-Lights Definition,14
+90.1-2007-Hospital-Corridor-Lights Definition,5
+90.1-2007-Hospital-Office space-Lights Definition,12
+90.1-2007-Hospital-Restaurant-Dining-Lights Definition,23
+90.1-2007-Hospital-Cafeteria/Fast-food dining-Lights Definition,15
+90.1-2007-Hospital-Kitchen-Lights Definition,23
+90.1-2007-Hospital-Laundry-Lights Definition,6
+90.1-2007- Edu-Daycare (through age 4)-Lights Definition,15
+90.1-2007- Edu-Daycare sickroom-Lights Definition,15
+90.1-2007- Edu-Classroom (age 5-8)-Lights Definition,15
+90.1-2007- Edu-Classroom (age9 plus)-Lights Definition,15
+90.1-2007- Edu-Lecture classroom-Lights Definition,15
+90.1-2007- Edu-Lecture hall-Lights Definition,15
+90.1-2007- Edu-Art classroom-Lights Definition,15
+90.1-2007- Edu-Science laboratory-Lights Definition,15
+90.1-2007- Edu-University/College laboratory-Lights Definition,15
+90.1-2007- Edu-Wood/Metal shop-Lights Definition,15
+90.1-2007- Edu-Computer lab-Lights Definition,15
+90.1-2007- Edu-Media center-Lights Definition,15
+90.1-2007- Edu-Theater-Lights Definition,15
+90.1-2007- Edu-Multipurpose-Lights Definition,14
+90.1-2007-Edu-Corridor-Lights Definition,5
+90.1-2007-Edu-Conference-Lights Definition,14
+90.1-2007-Edu-Office space-Lights Definition,12
+90.1-2007-Edu-Breakroom-Lights Definition,13
+90.1-2007-Edu-Coffee station-Lights Definition,15
+90.1-2007-Edu-Fast food dining-Lights Definition,15
+90.1-2007-Office-Breakroom-Lights Definition,13
+90.1-2007-Office-Lobby-Lights Definition,13
+90.1-2007-Office-Storage-Lights Definition,9
+90.1-2007-Office-Office space-Lights Definition,12
+90.1-2007-Office-Reception area-Lights Definition,5
+90.1-2007-Office-Telephone/data entry-Lights Definition,3
+90.1-2007-Office-Conference-Lights Definition,14
+90.1-2007-Office-Corridor-Lights Definition,5
+EIT-2016-Thai Office- Electrical/Mechanical,16
+EIT-2016-Thai Office-Restrooms,10
+90.1-2007-Office-Computer-Lights Definition,12
+90.1-2007-Office-Breakroom-Lights Definition,13
+90.1-2007-Office-Coffee station-Lights Definition,15
+90.1-2007-Office-Fast food dining-Lights Definition,15
+90.1-2007-Con-Dwelling unit-Lights Definition,12
+90.1-2007-Con-Corridor-Lights Definition,5
+90.1-2007-Con-Lobby-Lights Definition,13
+90.1-2007-Con-Office space-Lights Definition,12
+90.1-2007-Con-Conference-Lights Definition,14
+90.1-2007-Con-Breakroom-Lights Definition,13
+90.1-2007-Con-Coffee station-Lights Definition,15
+90.1-2007-Con-Fast food dining-Lights Definition,15
+90.1-2007-Con-Coin-operated laundry-Lights Definition,18
+90.1-2007-Gym-Sport arena (play area)-Lights Definition,29
+90.1-2007-Gym-Gym stadium (play area)-Lights Definition,10
+90.1-2007-Gym-Spectator areas-Lights Definition,4
+90.1-2007-Gym-Swimming (pool & deck)-Lights Definition,29
+90.1-2007-Gym-Disco/dance floors-Lights Definition,15
+90.1-2007-Gym-Health club/aerobics room-Lights Definition,10
+90.1-2007-Gym-Health club/weight room-Lights Definition,15
+90.1-2007-Gym-Bowling alley (seating)-Lights Definition,15
+90.1-2007-Gym-Game arcades-Lights Definition,15
+90.1-2007-Exh-Stages studios-Lights Definition,15
+90.1-2007-Exh-Children's Museum-Lights Definition,11
+90.1-2007-Exh-Museum/Gallery-Lights Definition,11
+90.1-2007-Exh-Corridor-Lights Definition,5
+90.1-2007-Exh/Gym--Office space-Lights Definition,12
+90.1-2007-Exh/Gym--Conference-Lights Definition,14
+90.1-2007-Exh/Gym--Coffee station-Lights Definition,15
+90.1-2007-Exh/Gym--Fast food dining-Lights Definition,15
+90.1-2007-Aud-Auditorium-Lights Definition,3
+90.1-2007-Aud-Places of religious worship-Lights Definition,26
+90.1-2007-Aud-Courtroom-Lights Definition,20
+90.1-2007-Aud-Legislative chamber-Lights Definition,14
+90.1-2007-Aud-Library-Lights Definition,13
+90.1-2007-Aud-Lobby-Lights Definition,14
+90.1-2007-Aud-Corridor-Lights Definition,5
+90.1-2007-Aud-Office space-Lights Definition,12
+90.1-2007-Aud-Conference-Lights Definition,14
+90.1-2007-Aud-Coffee station-Lights Definition,15
+90.1-2007-Aud-Fast food dining-Lights Definition,15
+90.1-2007-Hotel-Bedroom/Living room-Lights Definition,12
+90.1-2007-Hotel-Barracks sleep area-Lights Definition,12
+90.1-2007-Hotel-Laundry-Lights Definition,6
+90.1-2007-Hotel-Laundry in dwelling unit -Lights Definition,12
+90.1-2007-Hotel-Lobby-Lights Definition,12
+90.1-2007-Hotel-Multipurpose-Lights Definition,14
+90.1-2007-Hotel-Corridor-Lights Definition,5
+90.1-2007-Hotel-Office space-Lights Definition,12
+90.1-2007-Hotel-Conference-Lights Definition,14
+90.1-2007-Hotel-Auditorium-Lights Definition,3
+90.1-2007-Hotel-Restaurant-Dining-Lights Definition,23
+90.1-2007-Hotel-Cafeteria/Fast-food dining-Lights Definition,15
+90.1-2007-Hotel-Bars/Lounge-Lights Definition,15
+90.1-2007-Hotel-Kitchen-Lights Definition,23
+90.1-2007-Ent-Restaurant-Dining-Lights Definition,23
+90.1-2007-Ent-Cafeteria/Fast-food dining-Lights Definition,15
+90.1-2007-Ent-Bars/Lounge-Lights Definition,15
+90.1-2007-Ent-Kitchen-Lights Definition,23
+90.1-2007-Ent-Corridor-Lights Definition,5
+90.1-2007-Ent-Lobby-Lights Definition,13
+90.1-2007-Ent-Office space-Lights Definition,12
+90.1-2007-Ent-Conference-Lights Definition,14
+90.1-2007-Dep-Sales-Lights Definition,18
+90.1-2007-Dep-Mall common area-Lights Definition,18
+90.1-2007-Dep-Barbershop-Lights Definition,18
+90.1-2007-Dep-Beauty salon-Lights Definition,18
+90.1-2007-Dep-Pet shop-Lights Definition,18
+90.1-2007-Dep-Supermarket-Lights Definition,18
+90.1-2007-Dep-Coin-operated laudries-Lights Definition,18
+90.1-2007-Dep-Shipping-Lights Definition,5
+90.1-2007-Dep-Warehouse-Lights Definition,10
+90.1-2007-Dep-Photo studio-Lights Definition,18
+90.1-2007-Dep-Refrigeration area-Lights Definition,18
+90.1-2007-Dep-Bank vaults-Lights Definition,16
+90.1-2007-Dep-Bank lobby-Lights Definition,16
+90.1-2007-Dep-Corridor-Lights Definition,5
+90.1-2007-Dep-Office space-Lights Definition,12
+90.1-2007-Dep-Conference-Lights Definition,3
+90.1-2007-Dep-Restaurant-Dining-Lights Definition,23
+90.1-2007-Dep-Coffee station-Lights Definition,15
+90.1-2007-Dep-Cafeteria/Fast-food dining-Lights Definition,15
+90.1-2007-Dep-Bars/Lounge-Lights Definition,15
+90.1-2007-Dep-Kitchen-Lights Definition,23
