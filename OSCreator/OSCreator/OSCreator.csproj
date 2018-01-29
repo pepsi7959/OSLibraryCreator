@@ -54,6 +54,7 @@
     <Compile Include="Generator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleModel.cs" />
     <EmbeddedResource Include="OSLibraryCreator.resx">
       <DependentUpon>OSLibraryCreator.cs</DependentUpon>
     </EmbeddedResource>

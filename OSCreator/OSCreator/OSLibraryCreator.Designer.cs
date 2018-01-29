@@ -58,7 +58,8 @@
             "People Definition",
             "Light Definition",
             "Ventilation",
-            "Space Type"});
+            "Space Type",
+            "SpaceTypePlugIn"});
             this.libraryType_cbb.Location = new System.Drawing.Point(78, 19);
             this.libraryType_cbb.Name = "libraryType_cbb";
             this.libraryType_cbb.Size = new System.Drawing.Size(121, 21);
